@@ -41,15 +41,15 @@ The dataset contains E-commerce transaction records, including details such as:
 ## 🚀 4. How to Run  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/AmirhosseinGhalaei/Fraud-Prediction-Using-Machine-Learning.git
+   git clone https://github.com/AmirhosseinGhalaei/EcomerceRealisticData.git
 
 2. **Create the project directory**:  
    ```bash
-   mkdir Fraud-Prediction-Using-Machine-Learning
+   mkdir EcomerceRealisticData
 
 3. **Navigate to the directory**:
    ```bash
-   cd Fraud-Prediction-Using-Machine-Learning
+   cd EcomerceRealisticData
 
 4. **Install required libraries**:
    ```bash
@@ -57,7 +57,7 @@ The dataset contains E-commerce transaction records, including details such as:
 
 5. **Run the Python script**:
    ```bash
-    python FraudPrediction.py
+    python EcomerceRealisticData.py
 
 
 
@@ -111,9 +111,10 @@ To provide valuable business recommendations, we:
 ### ✅ 6.1 Monthly Sales Revenue Trends
 
 **Figure 6.1: Monthly Sales Revenue Trends**
-<p align="center"><strong><em>Figure 6.1: Monthly Sales Revenue Trends</em></strong></p>
-
 ![Image](https://github.com/user-attachments/assets/eb205050-6155-4652-aac9-ddfebabd518a)
+<p align="center"><strong><em>Figure 6.1: Monthly Sales Revenue Trends</em></strong></p>
+<p align="center"><strong><em><span style="font-size: 14px;">Figure 6.1: Monthly Sales Revenue Trends</span></em></strong></p>
+
 
 - This line chart represents the total revenue generated over a period of time, segmented by month.
 
