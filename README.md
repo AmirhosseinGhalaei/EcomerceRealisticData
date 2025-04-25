@@ -110,11 +110,8 @@ To provide valuable business recommendations, we:
 
 ### ✅ 6.1 Monthly Sales Revenue Trends
 
-**Figure 6.1: Monthly Sales Revenue Trends**
 ![Image](https://github.com/user-attachments/assets/eb205050-6155-4652-aac9-ddfebabd518a)
 <p align="center"><strong><em>Figure 6.1: Monthly Sales Revenue Trends</em></strong></p>
-<p align="center"><strong><em><span style="font-size: 14px;">Figure 6.1: Monthly Sales Revenue Trends</span></em></strong></p>
-
 
 - This line chart represents the total revenue generated over a period of time, segmented by month.
 
@@ -126,9 +123,8 @@ To provide valuable business recommendations, we:
 
 ### ✅ 6.2 Top 5 Best-Selling Products
 
-**Figure 6.2: Top 5 Best-Selling Products**
-
 ![Image](https://github.com/user-attachments/assets/ff971442-3e09-4c70-90ec-7e19faf40b46)
+<p align="center"><strong><em>Figure 6.2: Top 5 Best-Selling Products</em></strong></p>
 
 - This horizontal bar chart visualizes the top 5 best-selling products based on the total quantity sold.
 
@@ -140,9 +136,8 @@ To provide valuable business recommendations, we:
 
 ### ✅ 6.3 Customer Segmentation Based on Spending Habits
 
-**Figure 6.3: Customer Segmentation Based on Spending Habits**
-
 ![Image](https://github.com/user-attachments/assets/fc22a044-493c-4860-a4a6-704f6a1d0ef5)
+<p align="center"><strong><em>Figure 6.3: Customer Segmentation Based on Spending Habits</em></strong></p>
 
 - This bar chart categorizes customers into Low, Medium, and High spending tiers based on their purchase behaviour.
 
@@ -154,21 +149,19 @@ To provide valuable business recommendations, we:
 
 ### ✅ 6.4 Monthly Sales Trend
 
-**Figure 6.4: Monthly Sales Trend**
-
 ![Image](https://github.com/user-attachments/assets/41a8b3f6-8570-47b8-b966-bed07ac1f1ed)
+<p align="center"><strong><em>Figure 6.4: Monthly Sales Trend</em></strong></p>
 
-- This visualization is similar to Figure 4.1, showing monthly sales trends over time using a line chart.
+- This visualization is similar to Figure 6.1, showing monthly sales trends over time using a line chart.
 
 - It tracks total sales revenue over different months, illustrating sales performance patterns.
 
-- The pattern is nearly identical to the one in Figure 4.1, indicating consistent sales fluctuations, seasonal variations, or business cycles.
+- The pattern is nearly identical to the one in Figure 6.1, indicating consistent sales fluctuations, seasonal variations, or business cycles.
 
 ### ✅ 6.5 Bottom 10 Underperforming Products
 
 ![Image](https://github.com/user-attachments/assets/c7811076-1103-4fe2-8243-7d8b8d29f42c)
-
-**Figure 6.5: Bottom 10 Underperforming Products**
+<p align="center"><strong><em>Figure 6.5: Bottom 10 Underperforming Products</em></strong></p>
 
 - This horizontal bar chart highlights the worst-performing products in terms of total revenue.
 
