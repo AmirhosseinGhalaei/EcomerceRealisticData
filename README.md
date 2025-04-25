@@ -113,6 +113,7 @@ To provide valuable business recommendations, we:
 **Figure 6.1: Monthly Sales Revenue Trends**
 
 ![Monthly Sales Revenue Trends](images/Figure 6.1 Monthly Sales Revenue Trends.png)
+![Image](https://github.com/user-attachments/assets/eb205050-6155-4652-aac9-ddfebabd518a)
 
 This line chart represents the total revenue generated over a period of time, segmented by month.
 
