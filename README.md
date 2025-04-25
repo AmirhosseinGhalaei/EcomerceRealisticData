@@ -19,7 +19,7 @@ The dataset contains E-commerce transaction records, including details such as:
 - Product details (Stock Code, Description, Quantity, and Unit Price)  
 - Customer-related data (Customer ID and spending behavior)
 
-📌 **Dataset Link:** [Ecomerce Realistic Dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/datasets/carrie1/ecommerce-data))  
+📌 **Dataset Link:** [Ecomerce Realistic Dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ### 🔹 Key Columns in the Dataset:
 
