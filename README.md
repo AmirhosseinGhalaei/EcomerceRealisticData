@@ -111,6 +111,7 @@ To provide valuable business recommendations, we:
 ### ✅ 6.1 Monthly Sales Revenue Trends
 
 **Figure 6.1: Monthly Sales Revenue Trends**
+<p align="center"><strong><em>Figure 6.1: Monthly Sales Revenue Trends</em></strong></p>
 
 ![Image](https://github.com/user-attachments/assets/eb205050-6155-4652-aac9-ddfebabd518a)
 
