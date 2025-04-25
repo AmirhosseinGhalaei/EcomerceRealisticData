@@ -17,7 +17,9 @@ The dataset contains E-commerce transaction records, including details such as:
 
 - Invoice details (Invoice number, Date, and Customer ID)  
 - Product details (Stock Code, Description, Quantity, and Unit Price)  
-- Customer-related data (Customer ID and spending behavior)  
+- Customer-related data (Customer ID and spending behavior)
+
+📌 **Dataset Link:** [Ecomerce Realistic Dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/datasets/carrie1/ecommerce-data))  
 
 ### 🔹 Key Columns in the Dataset:
 
