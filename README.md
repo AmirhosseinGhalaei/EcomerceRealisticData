@@ -112,7 +112,7 @@ To provide valuable business recommendations, we:
 
 **Figure 6.1: Monthly Sales Revenue Trends**
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Revenue Trends](images/Figure 6.1 Monthly Sales Revenue Trends.png)
 
 This line chart represents the total revenue generated over a period of time, segmented by month.
 
@@ -126,7 +126,7 @@ A significant peak is observed in November, followed by a sharp decline in Decem
 
 **Figure 6.2: Top 5 Best-Selling Products**
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Top 5 Best-Selling Products](images/Figure 6.2 Top 5 Best-Selling Products.png)
 
 This horizontal bar chart visualizes the top 5 best-selling products based on the total quantity sold.
 
@@ -140,7 +140,7 @@ This insight can be used for inventory management, marketing strategies, and res
 
 **Figure 6.3: Customer Segmentation Based on Spending Habits**
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Customer Segmentation Based on Spending Habits](images/Figure 6.3 Customer Segmentation Based on Spending Habits.png)
 
 This bar chart categorizes customers into Low, Medium, and High spending tiers based on their purchase behaviour.
 
@@ -154,7 +154,7 @@ This suggests a price-sensitive customer base, highlighting the need for targete
 
 **Figure 6.4: Monthly Sales Trend**
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](images/Figure 6.4 Monthly Sales Trend.png)
 
 This visualization is similar to Figure 4.1, showing monthly sales trends over time using a line chart.
 
@@ -164,7 +164,7 @@ The pattern is nearly identical to the one in Figure 4.1, indicating consistent 
 
 ### ✅ 6.5 Bottom 10 Underperforming Products
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Bottom 10 Underperforming Products](images/Figure 6.5 Bottom 10 Underperforming Products.png)
 
 **Figure 6.5: Bottom 10 Underperforming Products**
 
